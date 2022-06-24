@@ -1,0 +1,79 @@
+
+body{
+background-color: aquamarine;
+
+}
+
+
+.container{
+    text-align: center;
+
+}
+#email{
+    padding-left: 100px;
+    margin: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#senha{
+    padding-left:100px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.bot{
+    text-align: center;
+}
+#botao{
+    padding:100px;
+    text-decoration:none;
+    text-align:center;
+    margin: 10px;
+
+}
+
+.check{
+    text-align: center;
+}
+
+#check{
+    margin: 20px;
+    
+}
+
+#esqueci{
+text-decoration:none;
+text-decoration-color:rgb(244, 5, 5);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 20px;
+margin-bottom: 200px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
