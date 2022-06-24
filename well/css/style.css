@@ -54,6 +54,12 @@ body {
     margin-bottom: 200px;
     color: black;
     font-size: 20px;
+    
+}
+
+#esqueci:hover {
+  background-color: rgb(220, 131, 238);
+  transition: 1s;
 }
 
 
